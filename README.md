@@ -1,2 +1,2 @@
 # NKS-translation-app
-Aplikasi translator dengan fitur AI
+Aplikasi translator AI
